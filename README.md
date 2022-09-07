@@ -22,3 +22,13 @@ The Met is an icon of culture and the __largest museum__ in the U.S. It is impos
 
 [AboutMe Link](https://github.com/KarthikMunnur/assignment2-Munnur/blob/cf7042da5a3206bc678cfff4ce041463dc78bbc5/AboutMe.md)
 
+---
+| CITY | LOCATION | TIME |
+|------|----------|------|
+|NEWYORK| Statue of Liberty | 7 Days |
+| Maryville | 619 W 1st | Unlimted Time |
+|Virginia | Virgina Beach | 3 Days |
+|Hyderabad | Tank Bund | 1 Day |
+
+
+
