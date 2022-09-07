@@ -9,4 +9,15 @@ The Met is an icon of culture and the __largest museum__ in the U.S. It is impos
 
 
 ---
-#hello
+### ENROUTING TO Metropolitan Museum of Art
+
+1. Board to nearest Airport NewYork
+2. Book a cab to MUseum, While travelling in cab we will observe Huge buildings.
+3. In 1000 5th Ave, New York, NY 10028 on right side we will find the Museum.
+
+### Places near Museum
+
+* We have many places near Museum. Amoung them you find parks, Island.
+* Statue of Liberty is one the tourit spot in the Newyork and near to Muesum.
+
+
