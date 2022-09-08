@@ -38,6 +38,32 @@ The Met is an icon of culture and the __largest museum__ in the U.S. It is impos
 >Nothing is Permanent in Life. - *Karthik Munnur*
  
 ---
+> Add Body Class Just For IE
+[Link for the Html codes](https://css-tricks.com/snippets/html/)
+
+```
+<!--[if IE ]>
+   <body class="ie">
+<![endif]-->
+<!--[if !IE]>-->
+   <body>
+<!--<![endif]-->
+
+```
+```
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]> <html dir="ltr" lang="en-US"class="no-js iem7"> <![endif]-->
+<!--[if lt IE 7 ]> <html dir="ltr" lang="en-US" class="no-js ie6 oldie"> <![endif]-->
+<!--[if IE 7 ]>    <html dir="ltr" lang="en-US" class="no-js ie7 oldie"> <![endif]-->
+<!--[if IE 8 ]>    <html dir="ltr" lang="en-US" class="no-js ie8 oldie"> <![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html dir="ltr" lang="en-US" class="no-js"><!--<![endif]-->
+
+```
+[Link for the Code of Body class for IE](https://css-tricks.com/snippets/html/add-body-class-just-for-ie/)
+
+---
+
+
 
 
 
