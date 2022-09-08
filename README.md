@@ -31,4 +31,18 @@ The Met is an icon of culture and the __largest museum__ in the U.S. It is impos
 |Hyderabad | Tank Bund | 1 Day |
 
 
+---
+
+>Happiness is your nature. It is not wrong to desire it. What is wrong is seeking it outside when it is inside. - *Sri Ramana Maharshi*
+
+>Nothing is Permanent in Life. - *Karthik Munnur*
+ 
+---
+
+
+
+
+
+
+
 
